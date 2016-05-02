@@ -27,5 +27,5 @@ Danilo Oliveira
 - dark-grey: #333333
 
 ### HTML
-O projeto foi concebido para ser utilizado no Visual Studio.
-Importe os arquivos em um novo projeto.
+- O projeto foi concebido para ser utilizado no Visual Studio.
+- Importe os arquivos em um novo projeto.
