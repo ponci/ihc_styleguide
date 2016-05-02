@@ -2,8 +2,8 @@
 Sistema de Controle de Equipes de Informática
 
 Alunos: 
-Lucas Ponciano
-Hugo Marcos
-Paulo Jose
-Leomar
+Lucas Ponciano, 
+Hugo Marcos, 
+Paulo Jose, 
+Leomar, 
 Danilo Oliveira
