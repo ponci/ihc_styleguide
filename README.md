@@ -14,10 +14,11 @@ Danilo Oliveira
 - Headers: Chaparral Pro
 - Body: Helvetica
 
-### Logos
+### Logomarcas
 - Logo Principal: 1_Primary_logo_on_transparent_399x75.png
--
-Demais logos deveram ser utilziadas de acordo com o fundo da tela
+- Demais logos deveram ser utilziadas de acordo com o fundo da tela
+
+
 
 ### Cores
 - main-color: #f9f9f9
@@ -26,5 +27,5 @@ Demais logos deveram ser utilziadas de acordo com o fundo da tela
 - dark-grey: #333333
 
 ### HTML
--O projeto foi concebido para ser utilizado no Visual Studio
--Importe os arquivos em um novo projeto
+O projeto foi concebido para ser utilizado no Visual Studio.
+Importe os arquivos em um novo projeto.
